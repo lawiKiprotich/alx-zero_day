@@ -1,1 +1,2 @@
-My first README
+README - update 
+!#bin\bash\tmp
